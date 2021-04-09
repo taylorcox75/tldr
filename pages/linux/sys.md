@@ -5,7 +5,7 @@
 
 - systemctl [start|stop|restart|reload] [app]
 
-`sys {{app}} {{up|down|rs|rld}}`
+`sys {{app}} {{up|down|re|rld}}`
 
 - systemctl status [app]:
 
@@ -21,5 +21,5 @@
 
 - tl-dr; start|stop|restart|status
 
-`sys {{app}} {{up|down|rs|st}}`
+`sys {{app}} {{up|down|re|st}}`
 
